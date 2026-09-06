@@ -541,7 +541,7 @@ export default function LiquidHero() {
       <div className="absolute inset-0 z-50 pointer-events-none">
         <div className="absolute left-8 md:left-16 bottom-12 md:bottom-16">
           <p className="mb-4 text-xs md:text-sm uppercase tracking-[0.35em] text-white/60">
-            Creative Developer
+            Web Developer | AI Engineer
           </p>
 
           <h1 className="text-white text-6xl md:text-8xl lg:text-[9rem] leading-[0.82] tracking-[-0.06em] font-medium drop-shadow-[0_2px_20px_rgba(0,0,0,0.15)]">
@@ -552,7 +552,7 @@ export default function LiquidHero() {
         </div>
 
         <div className="absolute right-8 md:right-16 bottom-12 md:bottom-16 max-w-xs">
-          <p className="text-sm md:text-base leading-relaxed text-white/60">
+          <p className="text-sm md:text-base leading-relaxed text-white/80">
             I design and build interactive digital
             experiences with code, motion and
             visual storytelling.
