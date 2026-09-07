@@ -1,1 +1,7 @@
 @import "tailwindcss";
+
+
+html.custom-cursor-active,
+html.custom-cursor-active * {
+  cursor: none !important;
+}
