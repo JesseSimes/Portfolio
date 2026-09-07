@@ -1,7 +1,7 @@
 import React, { useEffect, useMemo, useRef } from "react";
 import { Canvas, useFrame, useThree } from "@react-three/fiber";
 import * as THREE from "three";
-import heroVideo from "../assets/hero.mp4";
+import heroVideo from "../assets/Sequence 01_1.mp4";
 
 const simulationVertexShader = `
   varying vec2 vUv;
